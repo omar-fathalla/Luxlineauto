@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { motion, useInView } from "motion/react";
 import { ShieldCheck, Gem, Users, Settings, Calendar, Award, Wrench } from "lucide-react";
 import { useTheme } from "./ThemeProvider";
-import MISSION_IMG from "../../imports/close-up-black-car-parked-front-building-generative-ai-2.jpg";
+import MISSION_IMG from "../../imports/mission_bentley.png";
 import IMG_1 from "../../imports/black-convertible-with-license-plate-that-says-gw-1.jpg";
 import IMG_2 from "../../imports/black-convertible-with-license-plate-that-says-gw.jpg";
 import IMG_3 from "../../imports/automobile-model-is-sports-car-that-has-hood-that-says-it-is-black-color.jpg";
