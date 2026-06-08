@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { Sun, Moon } from "lucide-react";
 import { useTheme } from "./ThemeProvider";
-import logo from "../../imports/WhatsApp_Image_2026-04-16_at_15.04.58.jpeg";
+import logo from "../../imports/logo.jpg";
 
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false);

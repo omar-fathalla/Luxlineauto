@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { motion } from "motion/react";
-import logo from "../../imports/WhatsApp_Image_2026-04-16_at_15.04.58.jpeg";
+import logo from "../../imports/logo.jpg";
 import heroImage from "../../imports/black-sports-car-with-license-plate-number-8-front.jpg";
 
 export function HeroSection() {
