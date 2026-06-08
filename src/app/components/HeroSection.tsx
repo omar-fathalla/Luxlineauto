@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { motion } from "motion/react";
 import logo from "../../imports/logo.jpg";
-import heroImage from "../../imports/hero_bentley.png";
+import heroImage from "../../imports/hero_rolls_royce.jpg";
 
 export function HeroSection() {
   const sectionRef = useRef<HTMLDivElement>(null);
