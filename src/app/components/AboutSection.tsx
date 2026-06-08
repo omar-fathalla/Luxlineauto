@@ -6,7 +6,7 @@ import MISSION_IMG from "../../imports/mission_bentley.png";
 import IMG_1 from "../../imports/black-convertible-with-license-plate-that-says-gw-1.jpg";
 import IMG_2 from "../../imports/black-convertible-with-license-plate-that-says-gw.jpg";
 import IMG_3 from "../../imports/vision_rolls_royce.jpg";
-import IMG_4 from "../../imports/about_us_rolls_royce.png";
+import IMG_4 from "../../imports/about_us_bentley.jpg";
 
 const lines = [
   "At Luxe-Line Auto, our mission is to deliver",
